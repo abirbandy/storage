@@ -1,5 +1,5 @@
 LocationA,LocationB,Jitter,API
-A,A,1,abc,
-A,B,2,cde,
-B,B,1,frg,
-B,A,2,sss,
+A,A,1,
+A,B,2,
+B,B,1,
+B,A,2,
